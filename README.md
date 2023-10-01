@@ -8,18 +8,20 @@ You can also switch between pages by clicking on the browser's "Back" and "Forwa
 
 Clicking links does not cause the page to reload, but the information is requested from a third-party API, so loading may take a long time and errors may occur.
 
+Demo[https://dzianachayeuskaya.github.io/SPA/]
+
 ## Installation
 
 You can download or clone this project by running this command from your terminal:
 
-https://github.com/dzianachayeuskaya/SPA.git
+  git clone https://github.com/dzianachayeuskaya/SPA.git
 
 This will create a directory in the name of the project folder.
 
 Start the local server (for example, using a pre-installed globally installed library serve):
 
-npm install --global serve
+  npm install --global serve
 
-serve
+  serve
 
 You should see the application in your browser's address bar at http://localhost:3000.
