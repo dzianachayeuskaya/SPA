@@ -8,7 +8,7 @@ You can also switch between pages by clicking on the browser's "Back" and "Forwa
 
 Clicking links does not cause the page to reload, but the information is requested from a third-party API, so loading may take a long time and errors may occur.
 
-Demo[https://dzianachayeuskaya.github.io/SPA/]
+[Demo](https://dzianachayeuskaya.github.io/SPA)
 
 ## Installation
 
